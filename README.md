@@ -27,7 +27,7 @@ After successful login run the DDL query *CREATE Database database_name*
 Your database will be created.  
 ###How to run :  
 Copy all the files to the path ***/var/www/html***  
-Then restart **Apache Server ** by this command :**sudo service apache2 restart**  
+Then restart Apache Server by this command :**sudo service apache2 restart**  
 When you type 127.0.0.1 or your public ip it should show the index.html by default.
 ##Database configuration :  
 There is a **config.ini** file , please set your *hostname,database name user name & password* there  
